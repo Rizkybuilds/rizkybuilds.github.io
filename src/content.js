@@ -206,3 +206,169 @@ export const offers = [
     "eta": "3–5 hari"
   }
 ];
+
+export const serviceDetails = [
+  [
+    "Pemeriksaan ukuran, bleed, resolusi dan format; catatan perbaikan.",
+    "1 file sumber; tidak termasuk perbaikan."
+  ],
+  [
+    "1 file siap produksi sesuai spesifikasi vendor.",
+    "File sumber, ukuran dan spesifikasi cetak."
+  ],
+  [
+    "1 artwork vector hasil redraw.",
+    "Referensi resolusi terbaik; kompleksitas menentukan harga."
+  ],
+  [
+    "1 layout atau susunan produksi.",
+    "Ukuran mesin, bahan dan jumlah halaman."
+  ],
+  [
+    "File separasi sesuai proses produksi.",
+    "Artwork dan spesifikasi warna/vendor."
+  ],
+  [
+    "1 dieline berdasarkan ukuran yang diberikan.",
+    "Dimensi dan spesifikasi bahan; tidak termasuk uji fisik."
+  ],
+  [
+    "1 artwork hasil rekonstruksi.",
+    "Referensi asli dan hak penggunaan."
+  ],
+  [
+    "1 desain banner siap cetak.",
+    "Ukuran, teks dan logo."
+  ],
+  [
+    "1 desain poster atau flyer.",
+    "Teks, ukuran dan gambar."
+  ],
+  [
+    "1 desain menu sederhana.",
+    "Daftar menu, harga dan aset."
+  ],
+  [
+    "1 desain label atau stiker.",
+    "Ukuran, teks legal dan logo."
+  ],
+  [
+    "1 artwork merchandise.",
+    "Brief, ukuran cetak dan referensi."
+  ],
+  [
+    "1 desain kemasan pada dieline yang tersedia.",
+    "Dieline, informasi produk dan aset."
+  ],
+  [
+    "1 konsep logo dan file final.",
+    "Nama, target pasar dan referensi."
+  ],
+  [
+    "Logo dan panduan visual dasar.",
+    "Brief merek; scope final disepakati."
+  ],
+  [
+    "1 halaman profil dan kontak.",
+    "Informasi profil dan tautan."
+  ],
+  [
+    "1 halaman responsive dengan CTA.",
+    "Copy, aset dan tujuan halaman."
+  ],
+  [
+    "Website portofolio sederhana.",
+    "Bio, karya dan kontak."
+  ],
+  [
+    "Katalog digital sederhana.",
+    "Data produk dan gambar; tanpa checkout otomatis."
+  ],
+  [
+    "Website profil perusahaan.",
+    "Profil, layanan dan aset; jumlah halaman disepakati."
+  ],
+  [
+    "Website bisnis sesuai scope dasar.",
+    "Kebutuhan fitur dan konten; integrasi khusus terpisah."
+  ],
+  [
+    "Prototipe atau aplikasi sesuai scope.",
+    "Spesifikasi fitur; estimasi final setelah discovery."
+  ],
+  [
+    "1 mockup produk.",
+    "Artwork dan referensi produk."
+  ],
+  [
+    "1 visual berbasis foto referensi.",
+    "Foto asli; hasil tidak boleh menyesatkan."
+  ],
+  [
+    "1 desain konten sosial.",
+    "Copy, ukuran dan aset."
+  ],
+  [
+    "1 visual iklan.",
+    "Penawaran, copy dan format."
+  ],
+  [
+    "10 aset konten sederhana.",
+    "Tema, copy dan aset; tidak termasuk posting."
+  ],
+  [
+    "Penyegaran visual merchant sesuai scope.",
+    "Foto asli, menu dan akses materi; tidak termasuk publikasi."
+  ],
+  [
+    "Spreadsheet perhitungan HPP.",
+    "Resep, harga bahan dan satuan."
+  ],
+  [
+    "Spreadsheet sesuai kebutuhan sederhana.",
+    "Contoh data dan alur kerja."
+  ],
+  [
+    "Kalkulator harga dan margin.",
+    "HPP, fee dan target margin."
+  ],
+  [
+    "Template pencatatan stok.",
+    "Daftar barang dan satuan; bukan ERP."
+  ],
+  [
+    "Dashboard berdasarkan data yang tersedia.",
+    "Contoh data dan indikator."
+  ],
+  [
+    "Workflow sederhana yang disepakati.",
+    "Aplikasi, trigger dan output; biaya pihak ketiga terpisah."
+  ],
+  [
+    "Sistem khusus sesuai scope awal.",
+    "Discovery, kebutuhan pengguna dan data; hosting terpisah."
+  ]
+];
+export const contactConfig = {whatsapp: '', email: ''}; // Set only owner-approved public business contact details.
+export const projectDetails = {
+  "TeeStock": [
+    "Eksplorasi identitas apparel dan pengalaman katalog digital.",
+    "Proyek internal; belum ada klaim penjualan."
+  ],
+  "MultiGraph": [
+    "Konsep layanan printing berbasis pengalaman produksi.",
+    "Proyek internal; belum ada klaim hasil pelanggan."
+  ],
+  "BisnisHub": [
+    "Eksplorasi sistem bisnis terhubung dan workflow berbantuan AI.",
+    "Pengembangan internal."
+  ],
+  "Little Treat": [
+    "Pengembangan menu, visual produk dan identitas usaha F&B.",
+    "Usaha independen; tidak ada klaim performa komersial."
+  ],
+  "Kitchen OS": [
+    "Workspace operasional untuk resep, costing, stok dan persiapan menu.",
+    "Sistem internal dalam pengembangan."
+  ]
+};
